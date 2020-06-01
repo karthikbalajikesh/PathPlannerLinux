@@ -1,4 +1,4 @@
-#Graph Search Based Path Planner for 2D grid
+# Graph Search Based Path Planner for 2D grid
 
 This is a helper project for a larger project being compiled. 
 
