@@ -1,0 +1,4 @@
+/home/karthik/PathPlanner/build/CMakeFiles/rebuild_cache.dir
+/home/karthik/PathPlanner/build/CMakeFiles/edit_cache.dir
+/home/karthik/PathPlanner/build/CMakeFiles/PathPlanner.dir
+/home/karthik/PathPlanner/build/CMakeFiles/check.dir
